@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
-##Description
+## Description
 This is a class project made for education purposes and made by the github user 'ayestas'.
 
 ## Development server
